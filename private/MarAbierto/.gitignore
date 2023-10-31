@@ -1,0 +1,17 @@
+node_modules
+.env
+coverage
+coverage.json
+
+#Hardhat files
+cache
+artifacts
+
+.prettierrc
+.prettierignore
+static.md
+.solhint.json
+.eslintignore
+.eslintrc.js
+
+gas-report.txt
