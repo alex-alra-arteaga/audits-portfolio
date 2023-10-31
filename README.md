@@ -32,3 +32,5 @@ Twitter: [@0xAlra](https://twitter.com/0xAlra)
 | Contest | High risk | Medium risk | Low Risk | Security report |
 |:--:|:--:|:--:|:--:|:--:|
 | [MarAbierto NFT Collection](https://opensea.io/collection/mar-abierto-by-croonos-lab?tab=items) | 5 Critical/High | 1 Medium | - | [Source]() |
+
+[Here](https://github.com/alex-alra-arteaga/audits-portfolio/blob/main/private/MarAbierto/report/OpenSeaTestnetReport.md): MarAbierto report includes a OpenSea Testnet report to confirm the successful deployment and metadata querying and cache of the Marketplace regarding the audited NFT Collection and its metadata.
